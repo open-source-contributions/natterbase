@@ -8,7 +8,8 @@ Create a RESTFUL API for performing CRUD operations on a Country resource using 
 - Run `php artisan migrate --seed`  to get the database up and running
 - Run `php artisan jwt:secret` to set jwt secret
 
-##Routes
+## Routes
+
 POST - `/signup`
 payload => {
   'username' => ,
