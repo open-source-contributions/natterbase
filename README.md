@@ -45,3 +45,6 @@ payload => none
 
 POST - `/activities`
 payload => none
+
+## Unit Tests
+run `php vendor/phpunit/phpunit/phpunit` in Command line/terminal
