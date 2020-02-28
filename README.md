@@ -1,5 +1,5 @@
 # natterbase
-Create a RESTFUL API for performing CRUD operations on a Country resource using laravel PHP framework. 
+Create a RESTFUL API for performing CRUD operations on a Country resource using laravel PHP framework.
 
 ## Getting Started
 - Copy the `.env.example` file to `.env` and edit the details for your environment
@@ -47,4 +47,4 @@ POST - `/activities`
 payload => none
 
 ## Unit Tests
-run `php vendor/phpunit/phpunit/phpunit` in Command line/terminal
+run `php vendor/bin/phpunit` in Command line/terminal
